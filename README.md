@@ -1,9 +1,7 @@
 ## Hi I'm Jishnudath K👋
--Computer Science Student 
-
--At Vimal Jyothi Engineering College
-
--Learning Python, C , Java
+#leetcode
+#vjec
+#coding
 
 
 <!--
