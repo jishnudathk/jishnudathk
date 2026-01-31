@@ -1,12 +1,15 @@
-## Hi there 👋
-
+## Hi I'm Jishnudath K👋
+-Computer Science Student 
+-At Vimal Jyothi Engineering College
+-Learning Python, C , Java
+-
 <!--
 **jishnudathk/jishnudathk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at Vimal Jyothi Eng College
-- 🌱 I’m currently learning Computer Science With side skills like Python , C etc
+- 🔭 I’m currently studying at
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
