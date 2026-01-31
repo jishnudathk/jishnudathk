@@ -1,7 +1,10 @@
 ## Hi I'm Jishnudath K👋
 -Computer Science Student 
+
 -At Vimal Jyothi Engineering College
+
 -Learning Python, C , Java
+
 -
 <!--
 **jishnudathk/jishnudathk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
